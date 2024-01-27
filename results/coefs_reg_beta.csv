@@ -1,0 +1,30 @@
+;mean;precision;;;
+(Intercept);0,605656088;27,73842349;;;
+FECTOT;-0,034612713;27,73842349;;X1; Total fertilization rate.
+RAZDEP;0,003899668;27,73842349;;X2;Dependence rate, calculated by the number dependent (younger than 14 years or older than 65 years) over the active population (aged between 15 and 64 years), multiplied by 100.
+E_ANOSESTUDO;-0,010329932;27,73842349;;X3;Average number of years of study that a generation of children entering school should complete upon reaching 18 years of age.
+T_ANALF18M;-0,002740632;27,73842349;;X4;Illiteracy rate among the population aged 18 and over.
+T_FBBAS;-0,022758987;27,73842349;;X5;Attendance rate of children in basic education.
+T_FBFUND;0,016110836;27,73842349;;X6;Attendance rate of children and adolescents in elementary education
+T_FBMED;0,006114117;27,73842349;;X7;Attendance rate of adolescents in high school education.
+T_FBSUPER;-0,000289685;27,73842349;;X8;Attendance rate of people in university education.
+GINI;-0,264969165;27,73842349;;X9;Gini coefficient, considering the degree of inequality in the distribution of individuals according to per capita household income.
+PIND;0,001238762;27,73842349;;X10;Percentage of extremely poor.
+PPOB;0,011591232;27,73842349;;X11;Percentage of vulnerable to poverty.
+RDPCT;-7,54516E-05;27,73842349;;X12;Average per capita household income, except zero income.
+THEIL;0,00877597;27,73842349;;X13;Theil Coefficient, which measures inequality in the distribution of individuals according to per capita household income.
+P_FORMAL;-0,002738047;27,73842349;;X14;Degree of formalization of employed people.
+T_BANAGUA;0,000477724;27,73842349;;X15;Percentage of the population living in households with a bathroom and running water.
+T_DENS;-0,000487746;27,73842349;;X16;Percentage of the population living in households with a density greater than 2 people per bedroom.
+T_LIXO;0,000366538;27,73842349;;X17;Percentage of the population living in urban households with a garbage collection service.
+T_LUZ;-0,001144501;27,73842349;;X18;Percentage of the population living in households with electricity.
+AGUA_ESGOTO;0,002836821;27,73842349;;X19;Percentage of people in households with inadequate water supply and sanitation.
+PAREDE;-0,004779585;27,73842349;;X20;Percentage of people in households with walls that are not made of masonry or fitted wood. 
+T_M10A14CF;0,022702552;27,73842349;;X21;Percentage of women aged 10 to 14 who have had children.
+T_M15A17CF;0,000133587;27,73842349;;X22;Percentage of women aged 15 to 17 who have had children.
+I_ESCOLARIDADE;0,179562818;27,73842349;;X23;Basic education sub-index of the adult population.
+IDHM;-0,240680162;27,73842349;;X24;Municipal Human Development Index, considering the dimenstions of income, educatication and longevity.
+IDHM_L;-0,192844522;27,73842349;;X25;Municipal Human Development Index, longevity Dimension.
+IDHM_R;0,917906962;27,73842349;;X26;Municipal Human Development Index, income Dimension.
+tx_ocupacao_urbana;0,139182853;27,73842349;;X27;Urban occupancy rate.
+capital;-0,042616161;27,73842349;;X28;If the municipaly is the capital of its state or not.
